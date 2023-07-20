@@ -1,0 +1,9 @@
+[submodule "bureau-des-legendes-front"]
+	path = bureau-des-legendes-front
+	url = git@github.com:avznog/bureau-des-legendes-front.git
+[submodule "bureau-des-legendes-back"]
+	path = bureau-des-legendes-back
+	url = git@github.com:avznog/bureau-des-legendes-back.git
+[submodule "bureau-des-legendes-api"]
+	path = bureau-des-legendes-api
+	url = git@github.com:avznog/bureau-des-legendes-api.git
